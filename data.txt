@@ -1,17 +1,1059 @@
 Name                                     Count           Price         
-Turkey On Your Head [1] 	6	10,000,000z
+Variant Shoes
+Variant Shoes 	3
+Variant Shoes 	3	2,000,000z
+Variant Shoes 	3	2,000,000z
+Hard Rice Cake
+Hard Rice Cake 	1
+Hard Rice Cake 	1	3,500,000z
+Hard Rice Cake 	1	3,500,000z
+Smokie Card
+Smokie Card 	1
+Smokie Card 	1	1,000,000z
+Smokie Card 	1	1,000,000z
+Speed Potion
+Speed Potion 	2
+Speed Potion 	2	21,000z
+Speed Potion 	2	21,000z
+Named Condensed White Potion
+Named Condensed White Potion 	6
+Named Condensed White Potion 	6	4,300z
+Named Condensed White Potion 	6	4,300z
+Battle Manual X3
+Battle Manual X3 	7
+Battle Manual X3 	7	4,700,000z
+Battle Manual X3 	7	4,700,000z
+Yggdrasil Crown
+Yggdrasil Crown 	1
+Yggdrasil Crown 	1	12,980,000z
+Yggdrasil Crown 	1	12,980,000z
+Seeker Card
+Seeker Card 	1
+Seeker Card 	1	700,000z
+Seeker Card 	1	700,000z
+Obsidian Card
+Obsidian Card 	1
+Obsidian Card 	1	4,500,000z
+Obsidian Card 	1	4,500,000z
+Dead Branch
+Dead Branch 	B
+Dead Branch 	B	16,000z
+Dead Branch 	B	16,000z
+Creamy Card
+Creamy Card 	3
+Creamy Card 	3	2,950,000z
+Creamy Card 	3	2,950,000z
+Sohee Card
+Sohee Card 	1
+Sohee Card 	1	3,000,000z
+Sohee Card 	1	3,000,000z
+Succubus Horn
+Succubus Horn 	3
+Succubus Horn 	3	500,000z
+Succubus Horn 	3	500,000z
+Safe to 7 Body Armor Certificate
+Safe to 7 Body Armor Certificate 	16
+Safe to 7 Body Armor Certificate 	16	7,900,000z
+Safe to 7 Body Armor Certificate 	16	7,900,000z
+Safe to 7 Weapon Certificate
+Safe to 7 Weapon Certificate 	14
+Safe to 7 Weapon Certificate 	14	4,990,000z
+Safe to 7 Weapon Certificate 	14	4,990,000z
+Hinalle Leaflet
+Hinalle Leaflet 	2
+Hinalle Leaflet 	2	295z
+Hinalle Leaflet 	2	295z
+Turkey On Your Head [1]
+Turkey On Your Head [1] 	7
+Turkey On Your Head [1] 	7	10,000,000z
+Turkey On Your Head [1] 	7	10,000,000z
+Ninja Scroll
+Ninja Scroll 	1
 Ninja Scroll 	1	18,000,000z
+Ninja Scroll 	1	18,000,000z
+Orcish Voucher
+Orcish Voucher 	1
 Orcish Voucher 	1	400z
+Orcish Voucher 	1	400z
+Sticky Webfoot
+Sticky Webfoot 	1
 Sticky Webfoot 	1	1,000z
+Sticky Webfoot 	1	1,000z
+Cyfar
+Cyfar 	1
 Cyfar 	1	500z
+Cyfar 	1	500z
+Orc Warrior Card
+Orc Warrior Card 	1
 Orc Warrior Card 	1	500,000z
+Orc Warrior Card 	1	500,000z
+Trunk
+Trunk 	1
 Trunk 	1	5,000z
-Skel-Bone 	1	100z
-HP Increase Potion(Large) 	7	23,999z
+Trunk 	1	5,000z
+HP Increase Potion(Large)
+HP Increase Potion(Large) 	6
+HP Increase Potion(Large) 	6	30,000z
+HP Increase Potion(Large) 	6	30,000z
+Vitata500
+Vitata500 	6
 Vitata500 	6	50,000z
-Enrich Celermine Juice 	1	8,469z
+Vitata500 	6	50,000z
++7 La'cryma Stick [2]
++7 La'cryma Stick [2] 	1
 +7 La'cryma Stick [2] 	1	2,000,000z
-Valkyrja's Shield [1] 	5	19,000,000z
-Heroic Emblem 	1	160,000z
++7 La'cryma Stick [2] 	1	2,000,000z
+Valkyrja's Shield [1]
+Valkyrja's Shield [1] 	4
+Valkyrja's Shield [1] 	4	18,000,000z
+Valkyrja's Shield [1] 	4	18,000,000z
+Anubis Card
+Anubis Card 	1
 Anubis Card 	1	1,850,000z
+Anubis Card 	1	1,850,000z
+Alligator Card
+Alligator Card 	1
+Alligator Card 	1	100,000z
+Alligator Card 	1	100,000z
+Laurell Weinder Card
+Laurell Weinder Card 	2
 Laurell Weinder Card 	2	900,000z
+Laurell Weinder Card 	2	900,000z
+Hurricane Fury [1]
+Hurricane Fury [1] 	1
+Hurricane Fury [1] 	1	50,000,000z
+Hurricane Fury [1] 	1	50,000,000z
+Old Card Album
+Old Card Album 	24
+Old Card Album 	24	4,999,999z
+Old Card Album 	24	4,999,999z
+Rybio Card
+Rybio Card 	1
+Rybio Card 	1	1,000,000z
+Rybio Card 	1	1,000,000z
++7 Elven Bow [1]
++7 Elven Bow [1] 	1
++7 Elven Bow [1] 	1	34,000,000z
++7 Elven Bow [1] 	1	34,000,000z
+Spectral Spear
+Spectral Spear 	2
+Spectral Spear 	2	80,000z
+Spectral Spear 	2	80,000z
+Cinquedea [2]
+Cinquedea [2] 	2
+Cinquedea [2] 	2	3,000,000z
+Cinquedea [2] 	2	3,000,000z
+High Orc Card
+High Orc Card 	2
+High Orc Card 	2	2,950,000z
+High Orc Card 	2	2,950,000z
+Treasure Box
+Treasure Box 	B
+Treasure Box 	B	450,000z
+Treasure Box 	B	450,000z
+Carrot Juice
+Carrot Juice 	1
+Carrot Juice 	1	800z
+Carrot Juice 	1	800z
+Royal Jelly
+Royal Jelly 	2
+Royal Jelly 	2	4,600z
+Royal Jelly 	2	4,600z
+Battle Hook [1]
+Battle Hook [1] 	5
+Battle Hook [1] 	5	50,000z
+Battle Hook [1] 	5	50,000z
+Armlet of Obedience
+Armlet of Obedience 	1
+Armlet of Obedience 	1	30,000z
+Armlet of Obedience 	1	30,000z
++7 White Wing Suits [1]
++7 White Wing Suits [1] 	4
++7 White Wing Suits [1] 	4	35,000,000z
++7 White Wing Suits [1] 	4	35,000,000z
+Apple of Archer
+Apple of Archer 	3
+Apple of Archer 	3	200,000z
+Apple of Archer 	3	200,000z
+Lunakaligo [3]
+Lunakaligo [3] 	2
+Lunakaligo [3] 	2	400,000z
+Lunakaligo [3] 	2	400,000z
+Grave Keeper's Sword
+Grave Keeper's Sword 	3
+Grave Keeper's Sword 	3	9,000z
+Grave Keeper's Sword 	3	9,000z
+Berserk Guitar
+Berserk Guitar 	1
+Berserk Guitar 	1	100,000z
+Berserk Guitar 	1	100,000z
+PoPoring Card
+PoPoring Card 	1
+PoPoring Card 	1	65,000z
+PoPoring Card 	1	65,000z
+Gajomart Card
+Gajomart Card 	3
+Gajomart Card 	3	3,500,000z
+Gajomart Card 	3	3,500,000z
+Yggdrasilberry
+Yggdrasilberry 	2
+Yggdrasilberry 	2	250,000z
+Yggdrasilberry 	2	250,000z
+Short Daenggie
+Short Daenggie 	1
+Short Daenggie 	1	1,600z
+Short Daenggie 	1	1,600z
+Black Hair
+Black Hair 	1
+Black Hair 	1	1,500z
+Black Hair 	1	1,500z
+Coal
+Coal 	2
+Coal 	2	10,000z
+Coal 	2	10,000z
+Iron
+Iron 	3
+Iron 	3	1,000z
+Iron 	3	1,000z
+Horrendous Mouth
+Horrendous Mouth 	1
+Horrendous Mouth 	1	600z
+Horrendous Mouth 	1	600z
+Claw of Desert Wolf
+Claw of Desert Wolf 	2
+Claw of Desert Wolf 	2	4,400z
+Claw of Desert Wolf 	2	4,400z
+Bug Leg
+Bug Leg 	1
+Bug Leg 	1	600z
+Bug Leg 	1	600z
+Seagod's Anger
+Seagod's Anger 	9
+Seagod's Anger 	9	4,700,000z
+Seagod's Anger 	9	4,700,000z
+WoE Weapon Supply Box
+WoE Weapon Supply Box 	4
+WoE Weapon Supply Box 	4	12,000,000z
+WoE Weapon Supply Box 	4	12,000,000z
+Immaterial Sword
+Immaterial Sword 	2
+Immaterial Sword 	2	1,200,000z
+Immaterial Sword 	2	1,200,000z
+Strawberry
+Strawberry 	5
+Strawberry 	5	3,000z
+Strawberry 	5	3,000z
+Cat Hand Glove [1]
+Cat Hand Glove [1] 	2
+Cat Hand Glove [1] 	2	1,000,000z
+Cat Hand Glove [1] 	2	1,000,000z
+Phen Card
+Phen Card 	4
+Phen Card 	4	7,000,000z
+Phen Card 	4	7,000,000z
+Succubus Card
+Succubus Card 	4
+Succubus Card 	4	7,000,000z
+Succubus Card 	4	7,000,000z
+Expert Ring [1]
+Expert Ring [1] 	3
+Expert Ring [1] 	3	8,999,999z
+Expert Ring [1] 	3	8,999,999z
+Rideword Card
+Rideword Card 	3
+Rideword Card 	3	500,000z
+Rideword Card 	3	500,000z
+Ribbon [1]
+Ribbon [1] 	1
+Ribbon [1] 	1	10,000z
+Ribbon [1] 	1	10,000z
+Sakkat
+Sakkat 	1
+Sakkat 	1	10,000,000z
+Sakkat 	1	10,000,000z
+Silk Robe [1]
+Silk Robe [1] 	1
+Silk Robe [1] 	1	30,000z
+Silk Robe [1] 	1	30,000z
+Four Leaf Clover
+Four Leaf Clover 	1
+Four Leaf Clover 	1	100,000z
+Four Leaf Clover 	1	100,000z
+Morrigane's Belt
+Morrigane's Belt 	3
+Morrigane's Belt 	3	900,000z
+Morrigane's Belt 	3	900,000z
+Morrigane's Pendant
+Morrigane's Pendant 	3
+Morrigane's Pendant 	3	900,000z
+Morrigane's Pendant 	3	900,000z
+Snail's Shell
+Snail's Shell 	1
+Snail's Shell 	1	1,000z
+Snail's Shell 	1	1,000z
+Robo Eye
+Robo Eye 	3
+Robo Eye 	3	28,000,000z
+Robo Eye 	3	28,000,000z
+Pecopeco Card
+Pecopeco Card 	1
+Pecopeco Card 	1	5,500,000z
+Pecopeco Card 	1	5,500,000z
+Hunting Arrow Quiver
+Hunting Arrow Quiver 	4
+Hunting Arrow Quiver 	4	3,300z
+Hunting Arrow Quiver 	4	3,300z
+Mixture
+Mixture 	2
+Mixture 	2	200,000z
+Mixture 	2	200,000z
+Counteragent
+Counteragent 	2
+Counteragent 	2	200,000z
+Counteragent 	2	200,000z
+Memento
+Memento 	2
+Memento 	2	3,000z
+Memento 	2	3,000z
+Steel
+Steel 	6
+Steel 	6	7,000z
+Steel 	6	7,000z
+Marc Card
+Marc Card 	1
+Marc Card 	1	7,888,888z
+Marc Card 	1	7,888,888z
+Named Bottle Grenade
+Named Bottle Grenade 	3
+Named Bottle Grenade 	3	22,000z
+Witch Starsand
+Witch Starsand 	6
+Witch Starsand 	6	3,200z
+Witch Starsand 	6	3,200z
+Maneater Blossom
+Maneater Blossom 	7
+Maneater Blossom 	7	1,290z
+Maneater Blossom 	7	1,290z
++7 Turkey On Your Head [1]
++7 Turkey On Your Head [1] 	4
++7 Turkey On Your Head [1] 	4	74,000,000z
++7 Turkey On Your Head [1] 	4	74,000,000z
+HE Battle Manual
+HE Battle Manual 	3
+HE Battle Manual 	3	2,000,000z
+HE Battle Manual 	3	2,000,000z
+Safe to 7 Headgear Certificate
+Safe to 7 Headgear Certificate 	14
+Safe to 7 Headgear Certificate 	14	9,390,000z
+Safe to 7 Headgear Certificate 	14	9,390,000z
+Khalitzburg Card
+Khalitzburg Card 	5
+Khalitzburg Card 	5	1,950,000z
+Khalitzburg Card 	5	1,950,000z
+Glittering Jacket [1]
+Glittering Jacket [1] 	1
+Glittering Jacket [1] 	1	100,000z
+Glittering Jacket [1] 	1	100,000z
+Healing Staff
+Healing Staff 	2
+Healing Staff 	2	1,300,000z
+Healing Staff 	2	1,300,000z
+Elven Ears
+Elven Ears 	1
+Elven Ears 	1	15,000,000z
+Elven Ears 	1	15,000,000z
+Siroma Icetea
+Siroma Icetea 	3
+Siroma Icetea 	3	195,000z
+Siroma Icetea 	3	195,000z
+Minor Brisket
+Minor Brisket 	3
+Minor Brisket 	3	40,000z
+Minor Brisket 	3	40,000z
+Elven Bow [1]
+Elven Bow [1] 	3
+Elven Bow [1] 	3	10,000,000z
+Elven Bow [1] 	3	10,000,000z
++7 Bloody Eater [2]
++7 Bloody Eater [2] 	1
++7 Bloody Eater [2] 	1	10,000,000z
++7 Bloody Eater [2] 	1	10,000,000z
+Seal Of Cathedral
+Seal Of Cathedral 	1
+Seal Of Cathedral 	1	4,500,000z
+Seal Of Cathedral 	1	4,500,000z
+Light Of Cure
+Light Of Cure 	1
+Light Of Cure 	1	4,500,000z
+Light Of Cure 	1	4,500,000z
+Ring Of Archbishop
+Ring Of Archbishop 	1
+Ring Of Archbishop 	1	4,500,000z
+Ring Of Archbishop 	1	4,500,000z
+Crescent Scythe
+Crescent Scythe 	1
+Crescent Scythe 	1	2,800,000z
+Crescent Scythe 	1	2,800,000z
+Kobold Card
+Kobold Card 	3
+Kobold Card 	3	850,000z
+Kobold Card 	3	850,000z
+Armor of Naga [1]
+Armor of Naga [1] 	2
+Armor of Naga [1] 	2	200,000z
+Armor of Naga [1] 	2	200,000z
+Vanberk Card
+Vanberk Card 	2
+Vanberk Card 	2	7,000,000z
+Vanberk Card 	2	7,000,000z
+Isilla Card
+Isilla Card 	1
+Isilla Card 	1	19,999,999z
+Isilla Card 	1	19,999,999z
+Rocker Card
+Rocker Card 	1
+Rocker Card 	1	30,000z
+Rocker Card 	1	30,000z
+Drosera Herb Stew
+Drosera Herb Stew 	2
+Drosera Herb Stew 	2	200,000z
+Drosera Herb Stew 	2	200,000z
+Javelin [4]
+Javelin [4] 	3
+Javelin [4] 	3	5,000z
+Javelin [4] 	3	5,000z
+Bathory Card
+Bathory Card 	2
+Bathory Card 	2	500,000z
+Bathory Card 	2	500,000z
+Oridecon
+Oridecon 	8
+Oridecon 	8	50,000z
+Oridecon 	8	50,000z
+Wind of Verdure
+Wind of Verdure 	4
+Wind of Verdure 	4	3,000z
+Wind of Verdure 	4	3,000z
++7 Long Barrel [1]
++7 Long Barrel [1] 	1
++7 Long Barrel [1] 	1	50,000,000z
++7 Long Barrel [1] 	1	50,000,000z
+Little Angel Doll Box
+Little Angel Doll Box 	1
+Little Angel Doll Box 	1	25,000,000z
+Little Angel Doll Box 	1	25,000,000z
+Yoyo Egg
+Yoyo Egg 	2
+Yoyo Egg 	2	2,000,000z
+Yoyo Egg 	2	2,000,000z
+Spiritual Auger
+Spiritual Auger 	1
+Spiritual Auger 	1	10,000,000z
+Spiritual Auger 	1	10,000,000z
+Firelock Soldier Card
+Firelock Soldier Card 	1
+Firelock Soldier Card 	1	29,900,000z
+Firelock Soldier Card 	1	29,900,000z
+Named Bottle Grenade 	3	22,000z
+Petite Tail Noodles
+Petite Tail Noodles 	2
+Petite Tail Noodles 	2	20,000z
+Petite Tail Noodles 	2	20,000z
+Warg Blood Cocktail
+Warg Blood Cocktail 	4
+Warg Blood Cocktail 	4	180,000z
+Warg Blood Cocktail 	4	180,000z
+Earthproof Potion
+Earthproof Potion 	3
+Earthproof Potion 	3	1,200z
+Earthproof Potion 	3	1,200z
+White Potion
+White Potion 	5
+White Potion 	5	980z
+White Potion 	5	980z
+Ancient Dagger
+Ancient Dagger 	2
+Ancient Dagger 	2	100,000z
+Ancient Dagger 	2	100,000z
+Bigfoot Card
+Bigfoot Card 	1
+Bigfoot Card 	1	500,000z
+Bigfoot Card 	1	500,000z
+Spore Card
+Spore Card 	1
+Spore Card 	1	200,000z
+Spore Card 	1	200,000z
+Elder Branch
+Elder Branch 	1
+Elder Branch 	1	8,500z
+Elder Branch 	1	8,500z
+Muka Card
+Muka Card 	2
+Muka Card 	2	50,000z
+Muka Card 	2	50,000z
+Pest Card
+Pest Card 	1
+Pest Card 	1	1,500,000z
+Pest Card 	1	1,500,000z
+Deviruchi Card
+Deviruchi Card 	1
+Deviruchi Card 	1	150,000z
+Deviruchi Card 	1	150,000z
+White Mask
+White Mask 	1
+White Mask 	1	2,000z
+White Mask 	1	2,000z
+Bloody Rune
+Bloody Rune 	2
+Bloody Rune 	2	1,300z
+Bloody Rune 	2	1,300z
+Red Flame Whip
+Red Flame Whip 	1
+Red Flame Whip 	1	19,000z
+Red Flame Whip 	1	19,000z
+Binoculars
+Binoculars 	2
+Binoculars 	2	400,000z
+Binoculars 	2	400,000z
+Thara Frog Card
+Thara Frog Card 	2
+Thara Frog Card 	2	3,000,000z
+Thara Frog Card 	2	3,000,000z
+Katar of Frozen Icicle
+Katar of Frozen Icicle 	1
+Katar of Frozen Icicle 	1	500,000z
+Katar of Frozen Icicle 	1	500,000z
+Ph.D Hat
+Ph.D Hat 	1
+Ph.D Hat 	1	123,456z
+Ph.D Hat 	1	123,456z
+Electric Wire
+Electric Wire 	1
+Electric Wire 	1	30,000z
+Electric Wire 	1	30,000z
+Angelic Guard [1]
+Angelic Guard [1] 	1
+Angelic Guard [1] 	1	20,000z
+Angelic Guard [1] 	1	20,000z
+Mini Glasses [1]
+Mini Glasses [1] 	1
+Mini Glasses [1] 	1	36,000,000z
+Mini Glasses [1] 	1	36,000,000z
+Banana Juice
+Banana Juice 	1
+Banana Juice 	1	800z
+Banana Juice 	1	800z
+Cold Ice
+Cold Ice 	2
+Cold Ice 	2	1,500z
+Cold Ice 	2	1,500z
+Mandragora Flowerpot
+Mandragora Flowerpot 	2
+Mandragora Flowerpot 	2	1,350z
+Mandragora Flowerpot 	2	1,350z
+WoE Violet Potion Box
+WoE Violet Potion Box 	2
+WoE Violet Potion Box 	2	140,000z
+WoE Violet Potion Box 	2	140,000z
+Karvodailnirol
+Karvodailnirol 	2
+Karvodailnirol 	2	30,000z
+Karvodailnirol 	2	30,000z
+Empty Bottle
+Empty Bottle 	1
+Empty Bottle 	1	1,000z
+Empty Bottle 	1	1,000z
+Metaling Card
+Metaling Card 	1
+Metaling Card 	1	250,000z
+Metaling Card 	1	250,000z
+Mailbreaker
+Mailbreaker 	2
+Mailbreaker 	2	17,499,999z
+Mailbreaker 	2	17,499,999z
+Spiritual Ring
+Spiritual Ring 	4
+Spiritual Ring 	4	150,000z
+Spiritual Ring 	4	150,000z
+Goblin Card
+Goblin Card 	1
+Goblin Card 	1	2,750,000z
+Goblin Card 	1	2,750,000z
+Hydra Card
+Hydra Card 	1
+Hydra Card 	1	1,800,000z
+Hydra Card 	1	1,800,000z
+Level 7 Cookbook
+Level 7 Cookbook 	2
+Level 7 Cookbook 	2	14,000z
+Level 7 Cookbook 	2	14,000z
+Pirate Dagger
+Pirate Dagger 	4
+Pirate Dagger 	4	13,999,999z
+Pirate Dagger 	4	13,999,999z
+Old Purple Box
+Old Purple Box 	6
+Old Purple Box 	6	300,000z
+Old Purple Box 	6	300,000z
+Great Axe
+Great Axe 	1
+Great Axe 	1	2,000,000z
+Great Axe 	1	2,000,000z
+Vanilmirth Hat
+Vanilmirth Hat 	1
+Vanilmirth Hat 	1	20,000,000z
+Vanilmirth Hat 	1	20,000,000z
+Darkgreen Dyestuffs
+Darkgreen Dyestuffs 	3
+Darkgreen Dyestuffs 	3	100,000z
+Darkgreen Dyestuffs 	3	100,000z
+Mage Coat
+Mage Coat 	1
+Mage Coat 	1	200,000z
+Mage Coat 	1	200,000z
+WoE Greave [1]
+WoE Greave [1] 	2
+WoE Greave [1] 	2	333,333z
+WoE Greave [1] 	2	333,333z
+Roda Frog Card
+Roda Frog Card 	1
+Roda Frog Card 	1	900,000z
+Roda Frog Card 	1	900,000z
+Poison Herb Makulata
+Poison Herb Makulata 	1
+Poison Herb Makulata 	1	150z
+Poison Herb Makulata 	1	150z
+Glaris Doll Hat [1]
+Glaris Doll Hat [1] 	1
+Glaris Doll Hat [1] 	1	12,000,000z
+Glaris Doll Hat [1] 	1	12,000,000z
+Ragamuffin Manteau
+Ragamuffin Manteau 	3
+Ragamuffin Manteau 	3	89,000z
+Ragamuffin Manteau 	3	89,000z
+Fricca's Circlet
+Fricca's Circlet 	10
+Fricca's Circlet 	10	50,000z
+Fricca's Circlet 	10	50,000z
+Falken Blitz [2]
+Falken Blitz [2] 	4
+Falken Blitz [2] 	4	750,000z
+Falken Blitz [2] 	4	750,000z
+Gangster Mask
+Gangster Mask 	1
+Gangster Mask 	1	30,000z
+Gangster Mask 	1	30,000z
+Cello [3]
+Cello [3] 	1
+Cello [3] 	1	150,000z
+Cello [3] 	1	150,000z
+Scarlet Rose
+Scarlet Rose 	2
+Scarlet Rose 	2	30,000,000z
+Scarlet Rose 	2	30,000,000z
+Valkyrian Manteau [1]
+Valkyrian Manteau [1] 	3
+Valkyrian Manteau [1] 	3	350,000z
+Valkyrian Manteau [1] 	3	350,000z
+Full Plate [1]
+Full Plate [1] 	1
+Full Plate [1] 	1	199,000z
+Full Plate [1] 	1	199,000z
+Lemon Dyestuffs
+Lemon Dyestuffs 	1
+Lemon Dyestuffs 	1	100,000z
+Lemon Dyestuffs 	1	100,000z
+Scarlet Dyestuffs
+Scarlet Dyestuffs 	2
+Scarlet Dyestuffs 	2	100,000z
+Scarlet Dyestuffs 	2	100,000z
+White Herb
+White Herb 	3
+White Herb 	3	1,000z
+White Herb 	3	1,000z
+Yellow Herb
+Yellow Herb 	2
+Yellow Herb 	2	300z
+Yellow Herb 	2	300z
+Bakonawa Scale Armor
+Bakonawa Scale Armor 	3
+Bakonawa Scale Armor 	3	600,000z
+Bakonawa Scale Armor 	3	600,000z
+Incubus Horn
+Incubus Horn 	3
+Incubus Horn 	3	400,000z
+Incubus Horn 	3	400,000z
+Goibne's Greaves
+Goibne's Greaves 	9
+Goibne's Greaves 	9	200,000z
+Goibne's Greaves 	9	200,000z
+Goibne's Helm
+Goibne's Helm 	10
+Goibne's Helm 	10	100,000z
+Goibne's Helm 	10	100,000z
+Goibne's Spaulders
+Goibne's Spaulders 	12
+Goibne's Spaulders 	12	100,000z
+Goibne's Spaulders 	12	100,000z
+Survivor's Rod [1]
+Survivor's Rod [1] 	3
+Survivor's Rod [1] 	3	100,000z
+Survivor's Rod [1] 	3	100,000z
+Bone Helm
+Bone Helm 	3
+Bone Helm 	3	99,000z
+Bone Helm 	3	99,000z
+Aloe Leaflet
+Aloe Leaflet 	7
+Aloe Leaflet 	7	1,690z
+Aloe Leaflet 	7	1,690z
+Panacea
+Panacea 	1
+Panacea 	1	1,000z
+Panacea 	1	1,000z
+Guarana Candy
+Guarana Candy 	3
+Guarana Candy 	3	6,700z
+Guarana Candy 	3	6,700z
+Guildsman Recruiter Hat
+Guildsman Recruiter Hat 	1
+Guildsman Recruiter Hat 	1	10,000,000z
+Guildsman Recruiter Hat 	1	10,000,000z
+Jur [3]
+Jur [3] 	2
+Jur [3] 	2	1,000,000z
+Jur [3] 	2	1,000,000z
+Twin Edge of Naght Sieger [3]
+Twin Edge of Naght Sieger [3] 	7
+Twin Edge of Naght Sieger [3] 	7	14,000,000z
+Twin Edge of Naght Sieger [3] 	7	14,000,000z
+Twin Edge of Naght Sieger [3]
+Twin Edge of Naght Sieger [3] 	9
+Twin Edge of Naght Sieger [3] 	9	15,000,000z
+Twin Edge of Naght Sieger [3] 	9	15,000,000z
+Flame Manteau of Naght Sieger [1]
+Flame Manteau of Naght Sieger [1] 	2
+Flame Manteau of Naght Sieger [1] 	2	200,000z
+Flame Manteau of Naght Sieger [1] 	2	200,000z
+Staff of Destruction [1]
+Staff of Destruction [1] 	4
+Staff of Destruction [1] 	4	800,000z
+Staff of Destruction [1] 	4	800,000z
+Bison Horn [1]
+Bison Horn [1] 	2
+Bison Horn [1] 	2	150,000z
+Bison Horn [1] 	2	150,000z
+Fireblend
+Fireblend 	2
+Fireblend 	2	300,000z
+Fireblend 	2	300,000z
+Bradium Brooch [1]
+Bradium Brooch [1] 	1
+Bradium Brooch [1] 	1	27,000,000z
+Bradium Brooch [1] 	1	27,000,000z
+Knocker Card
+Knocker Card 	1
+Knocker Card 	1	500,000z
+Knocker Card 	1	500,000z
+Magical Stone
+Magical Stone 	15
+Magical Stone 	15	4,500,000z
+Magical Stone 	15	4,500,000z
+Petite's Tail
+Petite's Tail 	1
+Petite's Tail 	1	2,500z
+Petite's Tail 	1	2,500z
+Yggdrasil Seed
+Yggdrasil Seed 	10
+Yggdrasil Seed 	10	45,000z
+Yggdrasil Seed 	10	45,000z
+Diamond Ring
+Diamond Ring 	2
+Diamond Ring 	2	20,000z
+Diamond Ring 	2	20,000z
+White Wing Boots [1] HP+300 AGI+1 SP+100
+White Wing Boots [1] HP+300 AGI+1 SP+100 	1
+White Wing Boots [1] HP+300 AGI+1 SP+100 	1	10,000,000z
+White Wing Boots [1] HP+300 AGI+1 SP+100 	1	10,000,000z
+White Wing Brooch VIT+1 DEX+1
+White Wing Brooch VIT+1 DEX+1 	1
+White Wing Brooch VIT+1 DEX+1 	1	6,000,000z
+White Wing Brooch VIT+1 DEX+1 	1	6,000,000z
+Biretta [1]
+Biretta [1] 	3
+Biretta [1] 	3	57,000z
+Biretta [1] 	3	57,000z
+Vesper Core 03
+Vesper Core 03 	2
+Vesper Core 03 	2	2,500,000z
+Vesper Core 03 	2	2,500,000z
++7 Gladius [3]
++7 Gladius [3] 	2
++7 Gladius [3] 	2	3,500,000z
++7 Gladius [3] 	2	3,500,000z
+Stone of Sage
+Stone of Sage 	1
+Stone of Sage 	1	200,000z
+Stone of Sage 	1	200,000z
+Byorgue Card
+Byorgue Card 	1
+Byorgue Card 	1	40,000,000z
+Byorgue Card 	1	40,000,000z
+Schweizersabel
+Schweizersabel 	3
+Schweizersabel 	3	333,333z
+Schweizersabel 	3	333,333z
+Vali's Manteau
+Vali's Manteau 	1
+Vali's Manteau 	1	200,000z
+Vali's Manteau 	1	200,000z
+Cursed Lyre [1]
+Cursed Lyre [1] 	3
+Cursed Lyre [1] 	3	10,000z
+Cursed Lyre [1] 	3	10,000z
+Heavenly Maiden Robe [1]
+Heavenly Maiden Robe [1] 	7
+Heavenly Maiden Robe [1] 	7	40,000z
+Heavenly Maiden Robe [1] 	7	40,000z
+Wand of Occult
+Wand of Occult 	1
+Wand of Occult 	1	150,000z
+Wand of Occult 	1	150,000z
+Long Horn [1]
+Long Horn [1] 	6
+Long Horn [1] 	6	300,000z
+Long Horn [1] 	6	300,000z
+Owl Duke Card
+Owl Duke Card 	1
+Owl Duke Card 	1	1,234,567z
+Owl Duke Card 	1	1,234,567z
+Chrome Metal Sword
+Chrome Metal Sword 	3
+Chrome Metal Sword 	3	75,000z
+Chrome Metal Sword 	3	75,000z
+Cobaltblue Dyestuffs
+Cobaltblue Dyestuffs 	3
+Cobaltblue Dyestuffs 	3	80,000z
+Cobaltblue Dyestuffs 	3	80,000z
+Romantic Leaf
+Romantic Leaf 	5
+Romantic Leaf 	5	40,000z
+Romantic Leaf 	5	40,000z
+Cancer Crown
+Cancer Crown 	1
+Cancer Crown 	1	20,000,000z
+Cancer Crown 	1	20,000,000z
+Baphomet Doll
+Baphomet Doll 	1
+Baphomet Doll 	1	80,000z
+Baphomet Doll 	1	80,000z
+Candy Cane
+Candy Cane 	1
+Candy Cane 	1	1,555z
+Candy Cane 	1	1,555z
+Steel Chonchon Egg
+Steel Chonchon Egg 	1
+Steel Chonchon Egg 	1	500,000z
+Steel Chonchon Egg 	1	500,000z
+HD Bradium 5 Box
+HD Bradium 5 Box 	4
+HD Bradium 5 Box 	4	12,000,000z
+HD Bradium 5 Box 	4	12,000,000z
+HD Carnium 5 Box
+HD Carnium 5 Box 	2
+HD Carnium 5 Box 	2	12,500,000z
+HD Carnium 5 Box 	2	12,500,000z
+Fireproof Potion
+Fireproof Potion 	2
+Fireproof Potion 	2	2,000z
+Fireproof Potion 	2	2,000z
+Thunderproof Potion
+Thunderproof Potion 	2
+Thunderproof Potion 	2	1,500z
+Thunderproof Potion 	2	1,500z
+Familiar Card
+Familiar Card 	1
+Familiar Card 	1	100,000z
+Familiar Card 	1	100,000z
+Poring Hat
+Poring Hat 	2
+Poring Hat 	2	890,000z
+Poring Hat 	2	890,000z
+Angel Magic Power
+Angel Magic Power 	2
+Angel Magic Power 	2	18,000z
+Angel Magic Power 	2	18,000z
+Death Word Card
+Death Word Card 	1
+Death Word Card 	1	10,000,000z
+Death Word Card 	1	10,000,000z
+Spiritual Crystal
+Spiritual Crystal 	1
+Spiritual Crystal 	1	90,000z
+Spiritual Crystal 	1	90,000z
+Nightmare Terror Card
+Nightmare Terror Card 	1
+Nightmare Terror Card 	1	50,000z
+Nightmare Terror Card 	1	50,000z
+Hair Brush
+Hair Brush 	2
+Hair Brush 	2	1,000,000z
+Hair Brush 	2	1,000,000z
+Fancy Flower
+Fancy Flower 	1
+Fancy Flower 	1	11,000z
+Fancy Flower 	1	11,000z
+Tidal Shoes [1]
+Tidal Shoes [1] 	1
+Tidal Shoes [1] 	1	200,000z
+Tidal Shoes [1] 	1	200,000z
+Elemental Converter
+Elemental Converter 	2
+Elemental Converter 	2	7,000z
+Elemental Converter 	2	7,000z
+Elemental Converter
+Elemental Converter 	2
+Elemental Converter 	2	7,000z
+Elemental Converter 	2	7,000z
+Elemental Converter
+Elemental Converter 	3
+Elemental Converter 	3	6,900z
+Elemental Converter 	3	6,900z
+Mould Powder
+Mould Powder 	1
+Mould Powder 	1	3,000z
+Mould Powder 	1	3,000z
+Sunflower
+Sunflower 	2
+Sunflower 	2	70,000z
+Sunflower 	2	70,000z
+Joker Card
+Joker Card 	1
+Joker Card 	1	1,000,000z
+Joker Card 	1	1,000,000z
+Whisper Card
+Whisper Card 	2
+Whisper Card 	2	4,500,000z
+Whisper Card 	2	4,500,000z
+Pasana Card
+Pasana Card 	3
+Pasana Card 	3	13,300,000z
+Pasana Card 	3	13,300,000z
+Poison Spore
+Poison Spore 	B
+Poison Spore 	B	400z
+Poison Spore 	B	400z
+Clip [1]
+Clip [1] 	3
+Clip [1] 	3	350,000z
+Clip [1] 	3	350,000z
+Bible [2]
+Bible [2] 	1
+Bible [2] 	1	100,000z
+Bible [2] 	1	100,000z
+Omni Clothing Dye
+Omni Clothing Dye 	5
+Omni Clothing Dye 	5	17,900,000z
+Omni Clothing Dye 	5	17,900,000z
+Megalodon Card
+Megalodon Card 	1
+Megalodon Card 	1	20,000z
+Megalodon Card 	1	20,000z
+Chonchon Card
+Chonchon Card 	1
+Chonchon Card 	1	350,000z
+Chonchon Card 	1	350,000z
+Alice's Apron
+Alice's Apron 	1
+Alice's Apron 	1	10,000z
+Alice's Apron 	1	10,000z
+Blue Potion
+Blue Potion 	1
+Blue Potion 	1	5,500z
+Blue Potion 	1	5,500z
+Adventurer's Suit [1]
+Adventurer's Suit [1] 	1
+Adventurer's Suit [1] 	1	750,000z
+Adventurer's Suit [1] 	1	750,000z
+Raydric Card
+Raydric Card 	11
+Raydric Card 	11	16,000,000z
+Raydric Card 	11	16,000,000z
+Demon Mask
+Demon Mask 	1
+Demon Mask 	1	99,950,000z
+Demon Mask 	1	99,950,000z
+Hellfire
+Hellfire 	4
+Hellfire 	4	290,000z
+Hellfire 	4	290,000z
+Gae Bolg
+Gae Bolg 	1
+Gae Bolg 	1	950,000z
+Gae Bolg 	1	950,000z
+Steel Arrow Quiver
+Steel Arrow Quiver 	3
+Steel Arrow Quiver 	3	30,000z
+Steel Arrow Quiver 	3	30,000z
+Stem
+Stem 	3
+Stem 	3	599z
+Stem 	3	599z
+Immortal Heart
+Immortal Heart 	5
+Immortal Heart 	5	2,250z
+Immortal Heart 	5	2,250z
+Fabric
+Fabric 	3
+Fabric 	3	900z
+Fabric 	3	900z
+Imperial Spear [1]
+Imperial Spear [1] 	3
+Imperial Spear [1] 	3	9,000,000z
+Imperial Spear [1] 	3	9,000,000z
+Sprint Ring
+Sprint Ring 	1
+Sprint Ring 	1	29,000,000z
+Sprint Ring 	1	29,000,000z
+Orcish Axe
+Orcish Axe 	4
+Orcish Axe 	4	50,000z
+Orcish Axe 	4	50,000z
+Ring [1]
+Ring [1] 	1
+Ring [1] 	1	150,000z
+Ring [1] 	1	150,000z
+Ulle's Cap [1]
+Ulle's Cap [1] 	1
+Ulle's Cap [1] 	1	8,000,000z
+Ulle's Cap [1] 	1	8,000,000z
+Sleeper Card
+Sleeper Card 	1
+Sleeper Card 	1	50,000z
+Sleeper Card 	1	50,000z
+Evil Wing
+Evil Wing 	2
+Evil Wing 	2	1,695,000z
+Evil Wing 	2	1,695,000z
+Tiara
+Tiara 	1
+Tiara 	1	2,500,000z
+Tiara 	1	2,500,000z
+Savage BBQ
+Savage BBQ 	3
+Savage BBQ 	3	9,950z
+Savage BBQ 	3	9,950z
+Dragon Vest [1]
+Dragon Vest [1] 	2
+Dragon Vest [1] 	2	888,888z
+Dragon Vest [1] 	2	888,888z
+Valkyrian Shoes [1]
+Valkyrian Shoes [1] 	5
+Valkyrian Shoes [1] 	5	200,000z
+Valkyrian Shoes [1] 	5	200,000z
+Gozarian Mask
+Gozarian Mask 	2
+Gozarian Mask 	2	4,999,999z
+Gozarian Mask 	2	4,999,999z
+Insect Feeler
+Insect Feeler 	B
