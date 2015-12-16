@@ -38,9 +38,12 @@ def worker():
                     list_of_cells.append(name)
                 list_of_cells.append(cell.text)
                 
-            #Writing to file
+            #Writing to file and cleanup
             item_count = safe_iterate(item_count)
             safe_write_to_file(list_of_cells)
+            del list_of_rows[:]
+            del list_of_cells[:]
+        #Job complete
         url_queue.task_done()
 
 #Thread-Safe form of writing to file and formatting
@@ -61,8 +64,8 @@ for i in range(15):
     t.start()
         
 #4345 Pages to run in the site
-#urllist = ["http://ragial.com/search/iRO-Renewal//{}".format(str(pgnum)) for pgnum in range(1, 4345+1)]
-urllist = ["http://ragial.com/search/iRO-Renewal//{}".format(str(pgnum)) for pgnum in range(1, 10+1)]
+urllist = ["http://ragial.com/search/iRO-Renewal//{}".format(str(pgnum)) for pgnum in range(1, 4345+1)]
+#urllist = ["http://ragial.com/search/iRO-Renewal//{}".format(str(pgnum)) for pgnum in range(1, 100+1)]
 for url in urllist:
     url_queue.put(url)
 
