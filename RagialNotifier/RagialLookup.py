@@ -3,20 +3,15 @@ from threading import Thread
 from queue import Queue
 import threading
 import sys
-import time
 import subprocess
 import requests
 
 #Initialization of variables
-start = time.time()
-lock = threading.Lock()
 url_queue = Queue(100)
-item_count = 0
 search_word = sys.argv[1]
 
 #Worker class that threads run
 def worker():
-    global item_count
     while True:
         #URL Requests
         url = url_queue.get()
@@ -39,13 +34,13 @@ def worker():
 
         #Executing ahk script under certain parameters
         if (itemprice < 600000):
-            args = [r"C:\Users\Chris\repos\WebScraper\RagialNotifier\TextNotifier.exe", "WoE Whites are selling at less than 600000!"]
+            args = [r"TextNotifier.exe", "{}: selling at less than 600,000!".format(search_word)]
             subprocess.call(args)
         elif (itemprice < 650000):
-            args = [r"C:\Users\Chris\repos\WebScraper\RagialNotifier\TextNotifier.exe", "WoE Whites are selling at less than 650000!"]
+            args = [r"TextNotifier.exe", "{}: selling at less than 650,000!".format(search_word)]
             subprocess.call(args)
         elif (itemprice < 700000):
-            args = [r"C:\Users\Chris\repos\WebScraper\RagialNotifier\TextNotifier.exe", "WoE Whites are selling at less than 700000!"]
+            args = [r"TextNotifier.exe", "{}: selling at less than 700,000!".format(search_word)]
             subprocess.call(args)
         
         #Job complete

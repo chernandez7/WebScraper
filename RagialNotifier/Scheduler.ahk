@@ -6,9 +6,10 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
-SetTimer, Caller, 3600000
+SetTimer, Caller, 3600000 ; 1 hour
+;SetTimer, Caller, 30000 ;  .5 min DEBUGGING PURPOSES
 return
 
 Caller:
-Run "C:\Python34\python" "C:\Users\Chris\repos\WebScraper\RagialNotifier\RagialLookup.py" "woe white potion box"
+Run "RagialLookup.exe" "WoE White Potion Box"
 return
