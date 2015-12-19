@@ -65,9 +65,15 @@ starturl = "http://www.bimanga.com/2015/05/read-manga-tokyo-ghoul-re-chapter-01.
 response = requests.get(starturl)
 html = response.content
 soup = BeautifulSoup(html, "html.parser")
-for option in soup.find_all('option'):
+soup.prettify()
+body = soup.find_all('select',name='menu') ########FIX
+#for divider in body.findAll('div'):
+    #for select in divider.findAll('select', value=True):
+print (body)
+        
+#for option in body.find('option'):
     #urllist.append(option["value"])
-    print(option["value"])
+ #   print(option['value'])
 
 for url in urllist:
     url_queue.put(url)
